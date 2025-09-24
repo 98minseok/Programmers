@@ -15,6 +15,7 @@ class Solution {
                     answer[0] = width;
                     answer[1] = height;
                 }
+                break;
             }
         }
         return answer;
